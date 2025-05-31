@@ -3,7 +3,9 @@
 <h3 align="center">2nd Year B.Tech CSE | Curious Coder | SQL & Python Enthusiast | DSA Explorer | Future Developer</h3>
 
 <p align="center">
-  <img src="file:///C:/Users/DELL/Downloads/Khushi.jpg" />
+ <img src="(https://github.com/user-attachments/assets/1bf27255-f2c4-4f04-9039-6daa6aa0549d)
+" width="300" />
+
 </p>
 
 ---
