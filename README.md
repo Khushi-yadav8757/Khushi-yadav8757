@@ -3,7 +3,7 @@
 <h3 align="center">2nd Year B.Tech CSE | Curious Coder | SQL & Python Enthusiast | DSA Explorer | Future Developer</h3>
 
 <p align="center">
- <img src="![Image](https://github.com/user-attachments/assets/2de0fdc4-4891-4f2a-90ed-179533f097fe)
+ <img src="https://github.com/user-attachments/assets/2de0fdc4-4891-4f2a-90ed-179533f097fe
 " width="300" />
 
 </p>
