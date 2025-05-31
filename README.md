@@ -3,7 +3,7 @@
 <h3 align="center">2nd Year B.Tech CSE | Curious Coder | SQL & Python Enthusiast | DSA Explorer | Future Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=💻+Dream+it.+Code+it.+Achieve+it.;🚀+Learning+Never+Stops!" alt="Typing SVG" />
+  <img src="file:///C:/Users/DELL/Downloads/Khushi.jpg" />
 </p>
 
 ---
