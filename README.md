@@ -12,7 +12,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 🎓**3nd Year B.Tech CSE student** at KCC Institute of Technology and Management
+- 🎓**3nd Year B.Tech CSE student** at KCC Institute of Technology and Management
 - 💡 Exploring: **Data_Analytics**, **Pandas**, **DSA**, **SQL**, **C++**
 - 🚀 Passionate about solving problems & creating impact through code
 - 📈 Dreaming big and building step-by-step
