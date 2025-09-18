@@ -1,6 +1,6 @@
 <!-- WELCOME BANNER -->
 <h1 align="center">Hey 👋 I'm Khushi Yadav</h1>
-<h3 align="center">3nd Year B.Tech CSE | Curious Coder | SQL & Python Enthusiast | DSA Explorer | Future Developer</h3>
+<h3 align="center">3rd Year B.Tech CSE | Curious Coder | SQL & Python Enthusiast | DSA Explorer | Future Developer</h3>
 
 <p align="center">
  <img src="https://github.com/user-attachments/assets/2de0fdc4-4891-4f2a-90ed-179533f097fe
