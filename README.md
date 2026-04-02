@@ -1,19 +1,23 @@
-<!-- ================= WELCOME BANNER ================= -->
+<!-- WELCOME BANNER -->
+
+<h1 align="center">Hey 👋 I'm Khushi Yadav</h1>
+
+<h3 align="center">
+3rd Year B.Tech CSE | Curious Coder | SQL & Python Enthusiast | DSA Explorer | Future Developer
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Khushi+Yadav;3rd+Year+B.Tech+CSE+Student;Curious+Coder;SQL+%26+Python+Enthusiast;DSA+Explorer;Future+Developer" />
+  <img src="https://github.com/user-attachments/assets/2de0fdc4-4891-4f2a-90ed-179533f097fe" width="300" />
 </p>
-
 
 ---
 
 ### 👩‍💻 About Me
 
 - 🎓 **3rd Year B.Tech CSE student** at KCC Institute of Technology and Management  
-- 💻 Skilled in **Python, SQL, C++** with strong interest in **Data Analytics & Machine Learning**  
-- 📊 Exploring **Pandas, NumPy, and Data Visualization** to analyze real-world datasets  
-- 🚀 Passionate about building projects and continuously improving my coding skills  
-- 🎯 Goal: To become a **Machine Learning Engineer** and contribute to impactful solutions  
+- 💡 Exploring: **Data Analytics**, **Pandas**, **DSA**, **SQL**, **C++**  
+- 🚀 Passionate about solving problems & creating impact through code  
+- 📈 Dreaming big and building step-by-step  
 
 
 ## 🛠️ Tech Stack  
