@@ -11,9 +11,7 @@
 
 - 🎓 **3rd Year B.Tech CSE student** at KCC Institute of Technology and Management  
 - 💻 Skilled in **Python, SQL, C++** with strong interest in **Data Analytics & Machine Learning**  
-- 🧠 Actively practicing **Data Structures & Algorithms** to strengthen problem-solving skills  
 - 📊 Exploring **Pandas, NumPy, and Data Visualization** to analyze real-world datasets  
-- 🌱 Currently learning **Machine Learning & Open Source Contribution**  
 - 🚀 Passionate about building projects and continuously improving my coding skills  
 - 🎯 Goal: To become a **Machine Learning Engineer** and contribute to impactful solutions  
 
