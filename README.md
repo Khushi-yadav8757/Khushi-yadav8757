@@ -4,20 +4,19 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Khushi+Yadav;3rd+Year+B.Tech+CSE+Student;Curious+Coder;SQL+%26+Python+Enthusiast;DSA+Explorer;Future+Developer" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Khushi-yadav8757&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
 ### 👩‍💻 About Me
 
 - 🎓 **3rd Year B.Tech CSE student** at KCC Institute of Technology and Management  
-- 💡 Exploring: **Data Analytics**, **Pandas**, **DSA**, **SQL**, **C++**  
-- 🚀 Passionate about solving problems & creating impact through code  
-- 📈 Dreaming big and building step-by-step  
+- 💻 Skilled in **Python, SQL, C++** with strong interest in **Data Analytics & Machine Learning**  
+- 🧠 Actively practicing **Data Structures & Algorithms** to strengthen problem-solving skills  
+- 📊 Exploring **Pandas, NumPy, and Data Visualization** to analyze real-world datasets  
+- 🌱 Currently learning **Machine Learning & Open Source Contribution**  
+- 🚀 Passionate about building projects and continuously improving my coding skills  
+- 🎯 Goal: To become a **Machine Learning Engineer** and contribute to impactful solutions  
 
----
 
 ## 🛠️ Tech Stack  
 
@@ -39,19 +38,17 @@
 
 ### ⚡ Databases  
 
-| MySQL | SQL |
-|-------|-----|
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white) |
+| MySQL | PostgreSQL | MongoDB |
+|-------|-------------|----------|
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 
 ---
 
 ### 🧰 Tools & Platforms  
 
-| Git | GitHub | VS Code | Jupyter | HTML5 |
-|-----|--------|---------|---------|-------|
-| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-
----
+| Git | GitHub | VS Code | Jupyter |
+|-----|--------|---------|---------|
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) |
 
 ### 🌐 Connect With Me
 
