@@ -2,8 +2,7 @@
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+👋;I'm+Khushi+Yadav;&center=true&size=30&color=00BFFF">
-</h1>
----
+</h1> 
 
 <h3 align="center">💻 Passionate Developer | SQL & Python Enthusiast | Problem Solver</h3>
 
