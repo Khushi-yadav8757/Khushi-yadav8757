@@ -2,12 +2,13 @@
 
 <h1 align="center">Hey 👋 I'm Khushi Yadav</h1>
 
-<h3 align="center">
-3rd Year B.Tech CSE | Curious Coder | SQL & Python Enthusiast | DSA Explorer | Future Developer
-</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=3rd+Year+B.Tech+CSE+Student;Curious+Coder;DSA+Explorer;Future+Developer&center=true&width=500&height=50">
+</p>
 
 ---
+
+<h3 align="center">💻 Passionate Developer | SQL & Python Enthusiast | Problem Solver</h3>
 
 ### 👩‍💻 About Me
 
