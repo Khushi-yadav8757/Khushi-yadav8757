@@ -1,6 +1,8 @@
 <!-- WELCOME BANNER -->
 
-<h1 align="center">Hey 👋 I'm Khushi Yadav</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+👋;I'm+Khushi+Yadav;Future+Developer🚀&center=true&size=30&color=00BFFF">
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=3rd+Year+B.Tech+CSE+Student;Curious+Coder;DSA+Explorer;Future+Developer&center=true&width=500&height=50">
