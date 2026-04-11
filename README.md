@@ -1,8 +1,8 @@
 <!-- WELCOME BANNER -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+👋+I'm+Khushi+Yadav&center=true&size=45&height=60">
-</h1> 
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+👋;I'm+Khushi+Yadav&center=true&size=50&height=65&color=00BFFF">
+</h1>
 
 <h3 align="center">💻 Passionate Developer | SQL & Python Enthusiast | Problem Solver</h3>
 
