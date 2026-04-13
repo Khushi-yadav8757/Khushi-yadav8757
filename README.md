@@ -10,13 +10,10 @@
 ---
 
 <!-- CODING GIF -->
-
-<p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300"/>
+<p>
+<img align="right" height="200"
+src="https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif"/>
 </p>
-
----
-
 # 👩‍💻 About Me  
 
 - 🎓 **3rd Year B.Tech CSE student** at  
