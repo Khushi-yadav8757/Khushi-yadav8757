@@ -10,10 +10,10 @@
 ---
 
 <!-- CODING GIF -->
-<p>
-<img align="right" height="200"
-src="https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif"/>
+<p align="center">
+  <img src="https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif" width="350"/>
 </p>
+
 # 👩‍💻 About Me  
 
 - 🎓 **3rd Year B.Tech CSE student** at  
