@@ -1,25 +1,30 @@
-<!-- TOP BANNER GIF -->
+<!-- TOP WAVE HEADER -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Hey,%20This%20is%20Khushi%20Ku%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+👋;I'm+Khushi+Yadav;3rd+Year+B.Tech+CSE;SQL+%26+Python+Enthusiast;Future+Data+Analyst&center=true&size=30&color=00BFFF">
-</h1>
+<!-- TYPING TEXT -->
 
-<h3 align="center">
-💻 Curious Coder | DSA Explorer | Data Analytics Enthusiast
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=3rd+Year+B.Tech+CSE;Curious+Coder;SQL+%26+Python+Enthusiast;DSA+Explorer;Future+Data+Analyst&center=true&size=28&color=00BFFF">
+</p>
 
 ---
 
 # 👩‍💻 About Me  
 
-- 🎓 **3rd Year B.Tech CSE student** at **KCC Institute of Technology and Management**  
-- 💡 Exploring **Data Analytics, SQL, Pandas, DSA & Python**  
-- 🚀 Passionate about solving problems and building real-world projects  
-- 📈 Preparing for **placements & strong technical growth**  
+<img align="right" height="170" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+
+- 🎓 **3rd Year B.Tech CSE student**  
+  📍 KCC Institute of Technology and Management  
+
+- 💡 Learning & Exploring:  
+  **Data Analytics | SQL | Pandas | DSA | Python**
+
+- 🚀 Passionate about solving real-world problems  
+
+- 📈 Preparing for **placements & internships**
 
 ---
 
@@ -28,7 +33,12 @@
 ## 🧑‍💻 Programming Languages  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+<img src="https://skillicons.dev/icons?i=c" height="50"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
+<img src="https://skillicons.dev/icons?i=java" height="50"/>
+
 </p>
 
 ---
@@ -36,17 +46,31 @@
 ## 📊 Data Analytics Libraries  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
+
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+
 </p>
 
-**NumPy 🐼 | Pandas 📊 | Matplotlib 📉 | Seaborn 📈 | Power BI 📊**
+<p align="center">
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-9E3F9E?style=for-the-badge&logo=plotly&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</p>
 
 ---
 
 ## ⚡ Databases  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+<img src="https://skillicons.dev/icons?i=postgresql" height="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+
 </p>
 
 ---
@@ -54,7 +78,12 @@
 ## 🧰 Tools & Platforms  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+<img src="https://skillicons.dev/icons?i=jupyter" height="50"/>
+
 </p>
 
 ---
@@ -77,6 +106,10 @@
 
 <a href="https://twitter.com/KhushiYadav79">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/khushikyad001">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
 </p>
@@ -115,7 +148,7 @@
 
 ---
 
-# 🐍 Contribution Snake Animation  
+# 🐍 Contribution Snake  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
@@ -126,8 +159,8 @@
 # 🚀 Coding Journey  
 
 ```text
-Learning step-by-step,
-solving problems daily,
-and building projects that make impact.
+Learning daily,
+solving DSA problems,
+and building impactful projects.
 
-Future Data Analyst in Progress 🚀
+Future Data Analyst 🚀
