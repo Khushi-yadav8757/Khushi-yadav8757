@@ -110,33 +110,31 @@
 
 ---
 
-# 📈 My GitHub Stats  
+### 📈 My GitHub Stats  
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Khushi-yadav8757&show_icons=true&theme=tokyonight" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Khushi-yadav8757&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-yadav8757&layout=compact&theme=tokyonight" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-yadav8757&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
+--- 
 
-# 🔥 GitHub Streak  
+### 🔥 GitHub Streak  
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-yadav8757&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Khushi-yadav8757&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
-
-# 🏆 GitHub Trophies  
+### 🏆 GitHub Trophies  
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Khushi-yadav8757&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Khushi-yadav8757&theme=tokyonight&no-frame=true"/>
 
 </p>
 
