@@ -1,6 +1,6 @@
 <!-- TYPING ANIMATION -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+👋;I'm+Khushi+Ku+Yadav;Welcome+to+My+GitHub!;SQL+%28+Python+Enthusiast;Future+Data+Analyst&center=true&size=35&color=00BFFF&duration=3000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+👋;I'm+Khushi+Ku+Yadav;Welcome+to+My+GitHub!;&center=true&size=35&color=00BFFF&duration=3000&pause=1000">
 </h1>
 
 <h3 align="center">
