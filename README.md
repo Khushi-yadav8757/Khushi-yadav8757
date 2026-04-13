@@ -1,43 +1,54 @@
-<!-- TOP WAVE HEADER -->
+<!-- TOP ANIMATED WAVE HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Hey,%20This%20is%20Khushi%20Ku%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Hey,%20This%20is%20Khushi%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- TYPING TEXT -->
+<!-- TYPING ANIMATION -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub!;SQL+%26+Python+Enthusiast;DSA+Explorer;Future+Data+Analyst;&center=true&size=30&color=00BFFF">
+</h1>
+
+<h3 align="center">
+💻 Passionate Developer | SQL & Python Enthusiast | Problem Solver
+</h3>
+
+---
+
+<!-- CODING GIF -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=3rd+Year+B.Tech+CSE;Curious+Coder;SQL+%26+Python+Enthusiast;DSA+Explorer;Future+Data+Analyst&center=true&size=28&color=00BFFF">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250"/>
 </p>
 
 ---
 
 # 👩‍💻 About Me  
 
-<img align="right" height="170" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+- 🎓 **3rd Year B.Tech CSE student** at  
+  **KCC Institute of Technology and Management**  
 
-- 🎓 **3rd Year B.Tech CSE student**  
-  📍 KCC Institute of Technology and Management  
+- 💡 Exploring:  
+  **Data Analytics | Pandas | DSA | SQL | C++**
 
-- 💡 Learning & Exploring:  
-  **Data Analytics | SQL | Pandas | DSA | Python**
+- 🚀 Passionate about solving problems  
+  & creating impact through code  
 
-- 🚀 Passionate about solving real-world problems  
-
-- 📈 Preparing for **placements & internships**
+- 📈 Dreaming big and building step-by-step  
 
 ---
 
-# 🚀 Tech Stack  
+# 🛠️ Tech Stack  
 
-## 🧑‍💻 Programming Languages  
+## 🚀 Programming Languages  
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-<img src="https://skillicons.dev/icons?i=c" height="50"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
-<img src="https://skillicons.dev/icons?i=java" height="50"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </p>
 
@@ -47,17 +58,11 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-
-</p>
-
-<p align="center">
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-9E3F9E?style=for-the-badge&logo=plotly&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </p>
 
@@ -67,9 +72,9 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-<img src="https://skillicons.dev/icons?i=postgresql" height="50"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </p>
 
@@ -79,10 +84,10 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-<img src="https://skillicons.dev/icons?i=jupyter" height="50"/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 </p>
 
@@ -92,7 +97,7 @@
 
 <p align="center">
 
-<a href="mailto:khushiyad152@gmail.com">
+<a href="mailto:kky957242@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -108,15 +113,11 @@
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
-<a href="https://www.kaggle.com/khushikyad001">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
 </p>
 
 ---
 
-# 📈 GitHub Stats  
+# 📈 My GitHub Stats  
 
 <p align="center">
 
@@ -156,11 +157,11 @@
 
 ---
 
-# 🚀 Coding Journey  
+# 🔥 Coding Journey  
 
 ```text
-Learning daily,
-solving DSA problems,
-and building impactful projects.
+I'm on a mission to grow as a developer by solving problems,
+building cool projects, and sharing knowledge.
 
-Future Data Analyst 🚀
+I love exploring open-source, tech communities,
+and learning one step at a time 🚀
