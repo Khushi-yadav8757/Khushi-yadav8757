@@ -8,15 +8,6 @@
 💻 Passionate Developer | SQL & Python Enthusiast | Problem Solver
 </h3>
 
----
-
-<!-- CODING GIF -->
-
-<p align="center">
-  <img src="https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif" width="350"/>
-</p>
-
----
 
 # 👩‍💻 About Me  
 
