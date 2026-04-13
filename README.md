@@ -1,13 +1,6 @@
-<!-- TOP ANIMATED WAVE HEADER -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Hey,%20This%20is%20Khushi%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
 <!-- TYPING ANIMATION -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub!;SQL+%26+Python+Enthusiast;DSA+Explorer;Future+Data+Analyst;&center=true&size=30&color=00BFFF">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+👋;I'm+Khushi+Ku+Yadav;Welcome+to+My+GitHub!;SQL+%26+Python+Enthusiast;Future+Data+Analyst&center=true&size=35&color=00BFFF&duration=3000&pause=1000">
 </h1>
 
 <h3 align="center">
