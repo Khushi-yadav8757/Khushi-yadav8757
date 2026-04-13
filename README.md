@@ -12,7 +12,7 @@
 <!-- CODING GIF -->
 
 <p align="center">
-  <img src="https://www.google.com/imgres?q=coding%20gif%20anime&imgurl=https%3A%2F%2Fanimesher.com%2Forig%2F0%2F19%2F197%2F1978%2Fanimesher.com_code-computer-html-197855.gif&imgrefurl=https%3A%2F%2Fanimesher.com%2Fentry%2Fcode-computer-html-197855%2F&docid=WWxh3L_4w4JFyM&tbnid=jpxTjcchHtQF5M&vet=12ahUKEwjNj-3OteuTAxUjSmwGHcQ_BBUQnPAOegQIJBAB..i&w=500&h=275&hcb=2&ved=2ahUKEwjNj-3OteuTAxUjSmwGHcQ_BBUQnPAOegQIJBAB" width="250"/>
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300"/>
 </p>
 
 ---
