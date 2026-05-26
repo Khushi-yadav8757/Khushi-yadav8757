@@ -11,7 +11,7 @@
 
 # 👩‍💻 About Me  
 
-- 🎓 **3rd Year B.Tech CSE student** at  
+- 🎓 **Final Year B.Tech CSE student** at  
   **KCC Institute of Technology and Management**  
 
 - 💡 Exploring:  
