@@ -15,7 +15,7 @@
   **KCC Institute of Technology and Management**  
 
 - 💡 Exploring:  
-  **Data Analytics | Pandas | DSA | SQL | C++**
+  **Data Analytics | Power BI| Dev | SQL | C++**
 
 - 🚀 Passionate about solving problems  
   & creating impact through code  
